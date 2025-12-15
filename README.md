@@ -111,7 +111,7 @@ Finance-Dashboard-PowerBI/
 * Enhanced data storytelling and visualization skills
 * Practical exposure to real-world finance metrics
 
- ##👩‍💻 About Me
+ ## 👩‍💻 About Me
 
 I am a **Data Analyst fresher** with skills in **Excel, Power BI, and SQL**, passionate about analyzing data and generating meaningful insights.
 I am continuously learning and building projects to strengthen my analytical skills.
